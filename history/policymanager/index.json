@@ -1,0 +1,20 @@
+{
+  "schema": 1,
+  "target": "policymanager.dll",
+  "latest": "9601499-6D313F5D3D8606426B17AF9412B2C914-1",
+  "builds": [
+    {
+      "key": "9601499-6D313F5D3D8606426B17AF9412B2C914-1",
+      "timestamp": "9601499",
+      "pdb_guid": "6D313F5D3D8606426B17AF9412B2C914",
+      "pdb_age": 1,
+      "machine": "0x8664",
+      "ir": "builds/9601499-6D313F5D3D8606426B17AF9412B2C914-1/ir.json.gz",
+      "previous": null,
+      "diff_json": null,
+      "diff_markdown": null,
+      "summary": null
+    }
+  ],
+  "compression": "gzip"
+}
